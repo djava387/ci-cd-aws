@@ -16,7 +16,7 @@
 
 ### How did you allow Jenkins access to the Github repo?
 
-- Adding Jenkins public keys, through Deploy Keys feature in github
+-Adding Jenkins public keys, through Deploy Keys feature in github
 
 ### How did you get the Github repo to trigger the build?
 
@@ -31,7 +31,7 @@
 
 ### How did you allow Jenkins access to the EC2 instance?
 
-- EC2 instance ssh key i.e adding it into Jenkin's new project at SSH agent (access to deployment)
+-EC2 instance ssh key i.e adding it into Jenkin's new project at SSH agent (access to deployment)
 
 ### How did you get the CI project to trigger the CD build?
 
